@@ -14,7 +14,7 @@
 ### userdb.txt 和 userdb2.txt
 * 该文件需要配合peutils模块使用，文件中记录着‘壳’的特征信息，相当于壳的数据库
 ### 未完待续。。
-## 本系统用到的python版本及第三方库版本
+## 本系统使用的python版本及第三方库版本
 * python==3.5.
 * certifi==2020.4.5.1
 * chardet==3.0.4
@@ -52,3 +52,9 @@
 
     response = requests.post(url, files=files, data=data)
     print(response.json())
+如果正常，则会返回一大串json数据，如果返回的是`{code:0}`则可能的原因有
+* 是apikey填写错误
+* files文件或路径有问题
+* 上传的不是exe文件，或是其他文件改后缀名导致
+## 联系我们
+本系统完全开源，如有需要可以在github上与我们互动，还可以加入我们的qq群，我们一起讨论哟！
