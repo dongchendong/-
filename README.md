@@ -58,4 +58,4 @@
 * 上传的不是exe文件，或是其他文件改后缀名导致
 ## 联系我们
 本系统完全开源，如有需要可以在github上与我们互动，还可以加入我们的qq群，我们一起讨论哟！
-![avatar](https://github.com/dongchendong/malware/blob/master/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC.jpg)
+![avatar](https://github.com/dongchendong/malware/blob/master/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC2.jpg)
