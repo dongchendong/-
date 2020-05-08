@@ -46,7 +46,7 @@
 ## 本站API调用实例
     import requests
 
-    url = 'http://127.0.0.1:5000/api'
+    url = 'http://120.55.46.116/api'
     files = {'file': open('t1.exe', 'rb')}
     data = {'apikey': "123456"}
 
